@@ -9,3 +9,5 @@ This script allows us to convert an image in jpg format to pdf.
 - Add the image in the JPG format with name as 'input' in this folder.
 - Run `convert_img_to_pdf.py script`
 - Output PDF file will be generated in the folder
+
+Image source: :bear: :link: https://unsplash.com/es
