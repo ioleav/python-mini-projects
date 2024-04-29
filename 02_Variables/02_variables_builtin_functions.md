@@ -4,5 +4,5 @@ The Python interpreter has a number of functions and types built into it that ar
  ![Built-in Functions](https://raw.githubusercontent.com/Asabeneh/30-Days-Of-Python/master/images/builtin-functions.png)
 
 
-
+Find more info: [Python docs](https://docs.python.org/3.9/library/functions.html)
 
